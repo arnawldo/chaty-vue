@@ -1,24 +1,12 @@
-# README
+# Chaty-Vue!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Another chat app! (Vue | Rails)
 
-Things you may want to cover:
+![](chaty.gif)
 
-* Ruby version
+## Features  
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Rails backend
+- Vue Frontend
+- Messages queued by ActiveJob
+- Real-time
